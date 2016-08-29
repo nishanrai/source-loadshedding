@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">loadshedding</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="play_more_apps">https://play.google.com/store/apps/developer?id=ITsoch</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_home_footer">ca-app-pub-5697553087516622/7746916997</string>
+    <string name="interstitial_full_screen">ca-app-pub-5697553087516622/1700383399</string>
+   <string name="banner2">ca-app-pub-5697553087516622/5572179798</string>
+
+
+</resources>

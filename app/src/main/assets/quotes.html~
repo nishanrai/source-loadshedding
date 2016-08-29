@@ -1,0 +1,64 @@
+
+<html>
+<head>
+    <style>
+
+        blockquote {
+        font-family: Georgia, serif;
+        font-size: 16px;
+        background-color:lightgrey;
+        text-align:justify;
+        width:auto;
+        font-style: italic;
+        margin: 0.50em 0;
+        padding:8%;
+        line-height: 1.45;
+        position: relative;
+        color: #383838;
+        }
+        blockquote:before {
+        display: block;
+        content: "\201C";
+        font-size: 50px;
+        position: absolute;
+        top: -2px;
+        left:-0.5px;
+        color: #7a7a7a;
+        }
+
+        blockquote cite {
+        color: #999999;
+        font-size: 14px;
+        text-align:right;
+        display: block;
+        margin-top: 5px;
+        }
+        blockquote cite:before {
+        content: "\2014 \2009";
+        background-color:lightgrey;
+        }
+
+    </style>
+</head>
+<body>
+
+<blockquote><b>Energy Efficiency?</b><br>
+Energy Efficiency, is the goal of efforts to reduce the amount of energy required to provide products and services..<cite>ITsoch</cite></blockquote>
+
+ <blockquote> <b>1. Use energy-efficient light bulbs</b><br>
+Buy compact fluorescent light (CFL) bulbs. They use a whopping 75 per cent less energy than traditional incandescent bulbs. While CFL bulbs cost a little more, you’ll actually save money - the bulb lasts a lot longer and doesn’t use as much energy.<cite>ITsoch</cite></blockquote>
+
+ <blockquote> <b>2. Clean Cooking</b><br>
+Three fourth of Nepal’s population still depends on biomass as the main source of energy for cooking and heating. The majority of them uses traditionally open fires or so called “3 stone stoves”. These are generally inefficient in terms of energy consumption and release harmful emissions affecting both human health and environment. Within the clean cooking component of NEEP, the Alternative Energy Promotion Centre (AEPC), together with the Renewable Energy Testing Station (RETS), is promoting quality improvements for clean cooking stoves. For this purpose, AEPC has established minimum performance benchmarks on fuel efficiency, emission levels, safety and convenience of stoves. NEEP aims at building up the necessary competencies for testing stoves against these parameters and further facilitating the dissemination of relevant information at the national and international level.<cite>Energyefficiency.gov.np</cite></blockquote>
+
+
+ <blockquote> <b>3. Turn off lights</b><br>
+Turn your lights off when you’re not using them. If you switch a light off for just a few seconds, you will save more energy than it takes for the light to start up again, regardless of the type of light. This will save you around Rs.500 on your annual energy bills.<cite>ITsoch</cite></blockquote>
+
+ <blockquote> <b>Avoid energy vampires.</b><br>
+ Even when they’re turned off, home electronics in “standby” mode use energy to power features like clock displays. <cite>ITsoch</cite></blockquote>
+
+
+</body>
+
+</html>

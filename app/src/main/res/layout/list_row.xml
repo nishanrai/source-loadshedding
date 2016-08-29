@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:descendantFocusability="afterDescendants" android:layout_width="fill_parent" android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:id="@+id/ll">
+
+
+        <LinearLayout android:gravity="left"
+
+                android:layout_gravity="center_vertical"
+                android:orientation="horizontal"
+
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <LinearLayout android:textStyle="bold" android:background="@color/colorPrimary" android:gravity="center"
+                    android:orientation="vertical"
+
+                  android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.5">
+
+                    <TextView android:textSize="@dimen/item_schedule_text_large"
+                        android:textStyle="bold"  android:text="day"
+                        android:textColor="@color/white"
+                        android:layout_gravity="center"
+                        android:id="@+id/w1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:singleLine="true" />
+                </LinearLayout>
+
+
+
+
+
+                <LinearLayout android:gravity="center"
+
+                    android:orientation="vertical"
+                    android:layout_width="0.0dip"
+                    android:layout_height="fill_parent"
+                    android:layout_marginTop="@dimen/margin_8dp"
+                    android:layout_marginBottom="@dimen/margin_8dp"
+                    android:layout_weight="3.0"
+                    >
+
+                    <TextView
+                        android:text="hello"
+                        android:textSize="@dimen/item_schedule_text_medium"
+                        android:textStyle="bold"
+                        android:gravity="center_horizontal"
+                        android:id="@+id/l1"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:text="hello"
+                        android:textSize="@dimen/item_schedule_text_medium"
+                        android:textStyle="bold"
+                        android:gravity="center_horizontal"
+                        android:id="@+id/l2"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        />
+                    <TextView
+                        android:text="hello"
+                        android:textSize="@dimen/item_schedule_text_medium"
+                        android:textStyle="bold"
+                        android:gravity="center_horizontal"
+                        android:id="@+id/l3"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        />
+                </LinearLayout>
+               </LinearLayout>
+    </LinearLayout>
+
+
+</RelativeLayout>
